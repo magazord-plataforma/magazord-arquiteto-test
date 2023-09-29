@@ -8,12 +8,11 @@
 
 Este repositório tem como fim testar os candidatos para vaga de Arquiteto de Software na empresa [Magazord](https://magazord.com.br).
 
-> Para esta vaga buscamos alguém apaixonado por desafios,tenha facilidade em aprendizado de diferentes tecnologias e que esteja sempre atento aos detalhes!
+> Para esta vaga buscamos alguém apaixonado por desafios, tenha facilidade em aprendizado de diferentes tecnologias e que esteja sempre atento aos detalhes!
 
+## Primeira etapa:
 
-## O teste
-
-O objetivo deste teste é garantir que suas habilidades de modelagem e programação sejam postas a prova. O importante é o funcionamento, cumprimento com os requisitos e utilização de boas práticas. O visual da aplicação é secundário, não será critério de avaliação.
+O objetivo deste etapa é garantir que suas habilidades de modelagem e programação sejam postas a prova. O importante é o funcionamento, cumprimento com os requisitos e utilização de boas práticas. O visual da aplicação é secundário, não será critério de avaliação.
 
 Será realizado um simples sistema de contatos, utilizando PHP, JS, HTML, CSS e Banco de Dados. É necessário que o sistema utilize o padrão MVC e que seja orientado a API.
 
@@ -29,7 +28,7 @@ Será realizado um simples sistema de contatos, utilizando PHP, JS, HTML, CSS e 
 > [!IMPORTANT]
 > **É de extrema importância um arquivo README para instrução de como executar o projeto, sendo ponto de destaque o uso de metodologias de automação para execução do projeto considerando relacionamento de dependências ou provisionamento de recursos como versão de dependências, linguagem e banco de dados para o projeto.**
 
-## Requisitos funcionais:
+### Requisitos funcionais:
 
 - RF01 - O sistema deve manter uma tela de consulta para pessoas.
 
@@ -41,8 +40,7 @@ Será realizado um simples sistema de contatos, utilizando PHP, JS, HTML, CSS e 
 
 - RF05 - O sistema deve manter um CRUD (Cadastrar, Visualizar, Alterar, Excluir) para contato.
 
-
-## Requisitos não funcionais:
+### Requisitos não funcionais:
 
 - RNF01 - O sistema deve utilizar a linguagem PHP para o Back-end.
 
@@ -61,8 +59,7 @@ Será realizado um simples sistema de contatos, utilizando PHP, JS, HTML, CSS e 
 
 - RNF07 - O sistema deverá ter seu controle de versão no Github.
 
-
-## Regra de Negócio:
+### Regra de Negócio:
 
 - RN01 - São dados de pessoas: Nome e CPF.
 
@@ -70,8 +67,7 @@ Será realizado um simples sistema de contatos, utilizando PHP, JS, HTML, CSS e 
 
 - RN03 - Uma pessoa pode ter vários contatos
 
-
-## Aplicação de Design Patterns
+### Aplicação de Design Patterns
 
 A baixo são apresentados alguns padrões de projetos que podem ser aplicados na arquitetura do projeto proposto, utilize-os e apresente no arquivo README.md onde, como e porque da utilização deles. Fique a vontade para incluir outros padrões e descreve-los da mesma forma
 
@@ -81,6 +77,13 @@ A baixo são apresentados alguns padrões de projetos que podem ser aplicados na
 - Strategy Pattern
 - Dependency Injection Pattern
 - Front Controller Pattern
+
+## Segunda etapa:
+
+O objetivo deste etapa é garantir que suas habilidades de refatoração, analise critíca e clean code sejam postas a prova. O importante é a utilização de boas práticas.
+
+> [!IMPORTANT]
+> **É de extrema importância que o código tenha comentários em código deixando claro os objetivos e que no arquivo README conste as instrução das mudanças e quais os beneficios alcançados com as alterações em código.**
 
 ## Envio do teste
 
