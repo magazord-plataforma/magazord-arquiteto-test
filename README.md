@@ -80,7 +80,9 @@ A baixo são apresentados alguns padrões de projetos que podem ser aplicados na
 
 ## Segunda etapa:
 
-O objetivo deste etapa é garantir que suas habilidades de refatoração, analise critíca e clean code sejam postas a prova. O importante é a utilização de boas práticas.
+O objetivo deste etapa é garantir que suas habilidades de refatoração, analise critíca e clean code. O importante é a utilização de boas práticas.
+
+> A classe a ser refatorada é [Login.php](./segunda-etapa/Login.php)
 
 > [!IMPORTANT]
 > **É de extrema importância que o código tenha comentários em código deixando claro os objetivos e que no arquivo README conste as instrução das mudanças e quais os beneficios alcançados com as alterações em código.**
