@@ -42,22 +42,22 @@ Será realizado um simples sistema de contatos, utilizando PHP, JS, HTML, CSS e 
 
 ### Requisitos não funcionais:
 
-- RNF01 - O sistema deve utilizar a linguagem PHP para o Back-end.
-
-- RNF03 - O sistema deve utilizar Docker para definição do ambiente.
-
-- RNF04 - O sistema deve utilizar docker-compose para orquestração de containers.
-
-- RNF03 - O sistema deve utilizar JS, HTML, CSS.
-
-- RNF04 - O sistema deve ser organizado pelo padrão MVC.
-
-- RNF05 - O sistema deve utilizar o Composer para gerenciamento de dependências.
-
-- RNF06 - O sistema deve utilizar um banco de dados SQL (postgres ou mysql).
-![Modelagem](image/diagrama.png)
-
-- RNF07 - O sistema deverá ter seu controle de versão no Github.
+> - RNF01 - O sistema deve utilizar a linguagem PHP para o Back-end.
+> 
+> - RNF03 - O sistema deve utilizar Docker para definição do ambiente.
+> 
+> - RNF04 - O sistema deve utilizar docker-compose para orquestração de containers.
+> 
+> - RNF03 - O sistema deve utilizar JS, HTML, CSS.
+> 
+> - RNF04 - O sistema deve ser organizado pelo padrão MVC.
+> 
+> - RNF05 - O sistema deve utilizar o Composer para gerenciamento de dependências.
+> 
+> - RNF06 - O sistema deve utilizar um banco de dados SQL (postgres ou mysql).
+> ![Modelagem](image/diagrama.png)
+> 
+> - RNF07 - O sistema deverá ter seu controle de versão no Github.
 
 ### Regra de Negócio:
 
