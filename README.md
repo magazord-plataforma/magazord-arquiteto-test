@@ -15,7 +15,10 @@ Este repositório tem como fim testar os candidatos para vaga de Arquiteto de So
 
 O objetivo deste teste é garantir que suas habilidades de modelagem e programação sejam postas a prova. O importante é o funcionamento, cumprimento com os requisitos e utilização de boas práticas. O visual da aplicação é secundário, não será critério de avaliação.
 
-Será realizado um simples sistema de contatos, utilizando PHP, JS, HTML, CSS e Banco de Dados. É necessário que o sistema utilize o padrão MVC e que a manipulação com o banco de dados opere em conjunto com o ORM [Doctrine](https://www.doctrine-project.org/). 
+Será realizado um simples sistema de contatos, utilizando PHP, JS, HTML, CSS e Banco de Dados. É necessário que o sistema utilize o padrão MVC e que seja orientado a API.
+
+> [!NOTE]
+> Como opcional desacoplar a camada de operação para conseguir consumir por API e por linha de comando (chamada direta por ```php [classe] [parametros]```)
 
 > [!IMPORTANT]
 > **Não deve ser utilizado framework para o desenvolvimento da aplicação backend.**
