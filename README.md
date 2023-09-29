@@ -17,9 +17,11 @@ O objetivo deste teste é garantir que suas habilidades de modelagem e programa�
 
 Será realizado um simples sistema de contatos, utilizando PHP, JS, HTML, CSS e Banco de Dados. É necessário que o sistema utilize o padrão MVC e que a manipulação com o banco de dados opere em conjunto com o ORM [Doctrine](https://www.doctrine-project.org/). 
 
-Não deve ser utilizado framework para o desenvolvimento da aplicação backend. Já para o contexto frontend podem ser utilizados frameworks JS para simplificar o desenvolvimento visual visto não ser critério de avaliação, porém é importante se atentar as práticas de integração no momento da sua construção.
+> [!IMPORTANT]
+> Não deve ser utilizado framework para o desenvolvimento da aplicação backend. Já para o contexto frontend podem ser utilizados frameworks JS para simplificar o desenvolvimento visual visto não ser critério de avaliação, porém é importante se atentar as práticas de integração no momento da sua construção.
 
-ATENÇÃO: É de extrema importância um arquivo README para instrução de como executar o projeto, sendo ponto de destaque o uso de metodologias de automação para execução do projeto considerando relacionamento de dependências ou provisionamento de recursos como versão de dependências, linguagem e banco de dados para o projeto.
+> [!IMPORTANT]
+> É de extrema importância um arquivo README para instrução de como executar o projeto, sendo ponto de destaque o uso de metodologias de automação para execução do projeto considerando relacionamento de dependências ou provisionamento de recursos como versão de dependências, linguagem e banco de dados para o projeto.
 
 ## Requisitos funcionais:
 
@@ -84,5 +86,8 @@ A baixo são apresentados alguns padrões de projetos que podem ser aplicados na
 
 ## Envio do teste
 
-* Suba o repositório no seu Github e envie o link diretamente para o seu recrutador.
-Obs.: Não serão aceitos alterações após o envio.
+> [!NOTE]
+> Suba o repositório no seu Github e envie o link diretamente para o seu recrutador.
+
+> [!WARNING]
+> Obs.: Não serão aceitos alterações após o envio.
