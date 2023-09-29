@@ -30,15 +30,15 @@ Será realizado um simples sistema de contatos, utilizando PHP, JS, HTML, CSS e 
 
 ### Requisitos funcionais:
 
-- RF01 - O sistema deve manter uma tela de consulta para pessoas.
-
-- RF02 - O sistema deve manter um campo de pesquisa por nome de pessoa.
-
-- RF03 - O sistema deve manter uma tela de consulta para contatos.
-
-- RF04 - O sistema deve manter um CRUD (Cadastrar, Visualizar, Alterar, Excluir) para pessoas.
-
-- RF05 - O sistema deve manter um CRUD (Cadastrar, Visualizar, Alterar, Excluir) para contato.
+> - RF01 - O sistema deve manter uma tela de consulta para pessoas.
+> 
+> - RF02 - O sistema deve manter um campo de pesquisa por nome de pessoa.
+> 
+> - RF03 - O sistema deve manter uma tela de consulta para contatos.
+> 
+> - RF04 - O sistema deve manter um CRUD (Cadastrar, Visualizar, Alterar, Excluir) para pessoas.
+> 
+> - RF05 - O sistema deve manter um CRUD (Cadastrar, Visualizar, Alterar, Excluir) para contato.
 
 ### Requisitos não funcionais:
 
