@@ -93,4 +93,4 @@ A baixo são apresentados alguns padrões de projetos que podem ser aplicados na
 > **Suba o repositório no seu Github e envie o link diretamente para o seu recrutador.**
 
 > [!WARNING]
-> **Não serão aceitos alterações após o envio.**
+> **Não serão aceitos alterações após o envio, caso precise de mais tempo para implementação do projeto alinhe com o seu recrutador com antecedência.**
