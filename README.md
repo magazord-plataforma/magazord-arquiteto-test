@@ -61,22 +61,22 @@ Será realizado um simples sistema de contatos, utilizando PHP, JS, HTML, CSS e 
 
 ### Regra de Negócio:
 
-- RN01 - São dados de pessoas: Nome e CPF.
-
-- RN02 - São dados de contato: Tipo (Telefone ou Email), Descrição.
-
-- RN03 - Uma pessoa pode ter vários contatos
+> - RN01 - São dados de pessoas: Nome e CPF.
+> 
+> - RN02 - São dados de contato: Tipo (Telefone ou Email), Descrição.
+> 
+> - RN03 - Uma pessoa pode ter vários contatos
 
 ### Aplicação de Design Patterns
 
 A baixo são apresentados alguns padrões de projetos que podem ser aplicados na arquitetura do projeto proposto, utilize-os e apresente no arquivo README.md onde, como e porque da utilização deles. Fique a vontade para incluir outros padrões e descreve-los da mesma forma
 
-- Repository Pattern
-- Factory Pattern
-- Singleton Pattern
-- Strategy Pattern
-- Dependency Injection Pattern
-- Front Controller Pattern
+> - Repository Pattern
+> - Factory Pattern
+> - Singleton Pattern
+> - Strategy Pattern
+> - Dependency Injection Pattern
+> - Front Controller Pattern
 
 ## Segunda etapa:
 
