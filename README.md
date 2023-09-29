@@ -46,8 +46,6 @@ Será realizado um simples sistema de contatos, utilizando PHP, JS, HTML, CSS e 
 
 - RNF01 - O sistema deve utilizar a linguagem PHP para o Back-end.
 
-- RNF02 - O sistema deve utilizar a ORM Doctrine para o Back-end.
-
 - RNF03 - O sistema deve utilizar Docker para definição do ambiente.
 
 - RNF04 - O sistema deve utilizar docker-compose para orquestração de containers.
