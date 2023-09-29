@@ -82,11 +82,6 @@ A baixo são apresentados alguns padrões de projetos que podem ser aplicados na
 - Dependency Injection Pattern
 - Front Controller Pattern
 
-## Links para documentação de ferramentas utilizadas.
-
-- Composer: https://getcomposer.org/
-- Doctrine: https://www.doctrine-project.org/projects/doctrine-orm/en/2.10/index.html
-
 ## Envio do teste
 
 > [!NOTE]
