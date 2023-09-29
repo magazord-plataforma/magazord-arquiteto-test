@@ -79,7 +79,6 @@ A baixo são apresentados alguns padrões de projetos que podem ser aplicados na
 - Singleton Pattern
 - Strategy Pattern
 - Dependency Injection Pattern
-- Observer Pattern
 - Front Controller Pattern
 
 ## Links para documentação de ferramentas utilizadas.
